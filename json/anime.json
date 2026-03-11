@@ -1,0 +1,307 @@
+[
+  {
+    "id": "101_anime_005",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/double_005_0.webp",
+        "name": "double_005_0.webp",
+        "thumbUrl": "",
+        "contentType": "image/webp"
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/double_005_1.webp",
+        "name": "double_005_1.webp",
+        "thumbUrl": "",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677055,
+    "subType": 0,
+    "type": 2,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_001",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_001.mp4",
+        "name": "anime_001.mp4",
+        "thumbUrl": "",
+        "contentType": "video/mp4"
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_001.webp",
+        "name": "anime_001.webp",
+        "thumbUrl": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_001_preview.webp",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677056,
+    "subType": 0,
+    "type": 0,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_010",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/couple_010.webp",
+        "name": "couple_010.webp",
+        "thumbUrl": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/couple_010_preview.webp",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677057,
+    "subType": 0,
+    "type": 4,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_002",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_002.mp4",
+        "name": "anime_002.mp4",
+        "thumbUrl": "",
+        "contentType": "video/mp4"
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_002.webp",
+        "name": "anime_002.webp",
+        "thumbUrl": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_002_preview.webp",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677058,
+    "subType": 0,
+    "type": 0,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_007",
+    "medias": [{
+      "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/days_007_06h.webp",
+      "name": "days_007_06h.webp",
+      "thumbUrl": "",
+      "hour": "06:00",
+      "contentType": "image/webp"
+    },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/days_007_12h.webp",
+        "name": "days_007_12h.webp",
+        "thumbUrl": "",
+        "hour": "12:00",
+        "contentType": "image/webp"
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/days_007_18h.webp",
+        "name": "days_007_18h.webp",
+        "thumbUrl": "",
+        "hour": "18:00",
+        "contentType": "image/webp"
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/days_007_24h.webp",
+        "name": "days_007_24h.webp",
+        "thumbUrl": "",
+        "hour": "24:00",
+        "contentType": "image/webp"
+      }],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677059,
+    "subType": 0,
+    "type": 3,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_003",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_003.mp4",
+        "name": "anime_003.mp4",
+        "thumbUrl": "",
+        "contentType": "video/mp4"
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_003.webp",
+        "name": "anime_003.webp",
+        "thumbUrl": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_003_preview.webp",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677060,
+    "subType": 0,
+    "type": 0,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_004",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_004.webp",
+        "name": "anime_004.webp",
+        "thumbUrl": "",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677061,
+    "subType": 0,
+    "type": 1,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_006",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/double_006_0.webp",
+        "name": "double_006_0.webp",
+        "thumbUrl": "",
+        "contentType": "image/webp"
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/double_006_1.webp",
+        "name": "double_006_1.webp",
+        "thumbUrl": "",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677062,
+    "subType": 0,
+    "type": 2,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_008",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_008.webp",
+        "name": "anime_008.webp",
+        "thumbUrl": "",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677063,
+    "subType": 0,
+    "type": 1,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_009",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_009.webp",
+        "name": "anime_009.webp",
+        "thumbUrl": "",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677064,
+    "subType": 0,
+    "type": 1,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_015",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_015.webp",
+        "name": "anime_015.webp",
+        "thumbUrl": "",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677065,
+    "subType": 0,
+    "type": 1,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_012",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_012.webp",
+        "name": "anime_012.webp",
+        "thumbUrl": "",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677066,
+    "subType": 0,
+    "type": 1,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_014",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_014.webp",
+        "name": "anime_014.webp",
+        "thumbUrl": "",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677067,
+    "subType": 0,
+    "type": 1,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_013",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/anime_013.webp",
+        "name": "anime_013.webp",
+        "thumbUrl": "",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677068,
+    "subType": 0,
+    "type": 1,
+    "coinToUnlock": 0
+  },
+  {
+    "id": "101_anime_011",
+    "medias": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/tramiune/tramiune001_res_wallpaper/app/src/main/assets/resources/anime/couple_011.webp",
+        "name": "couple_011.webp",
+        "thumbUrl": "",
+        "contentType": "image/webp"
+      }
+    ],
+    "categoryId": "101_anime",
+    "isPremium": true,
+    "createdAt": 1760677069,
+    "subType": 0,
+    "type": 4,
+    "coinToUnlock": 0
+  }
+]
